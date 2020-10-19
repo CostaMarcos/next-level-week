@@ -1,0 +1,9 @@
+{
+	"name": "teste",
+	"latitude": -3.0355774,
+	"longitude": -59.9735187,
+	"about": "sobre o orfanato",
+	"instructions": "Venha visitar",
+	"opening_hours": "8h a 18h",
+	"open_on_weekends": true
+}
